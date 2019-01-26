@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "206.189.214.82",
+  "port": "22",
+  "target": "/usr/local/CyberCP",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "root",
+  "keyfile": "/home/usman/.ssh/rootgcp",
+  "watch": [],
+  "transport": "scp"
+}

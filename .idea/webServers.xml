@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b51a6bd-98c8-4987-8067-fdbf93eb4476" name="talkshosting.com" url="http://159.65.162.202">
+        <fileTransfer host="159.65.162.202" port="22" privateKey="$USER_HOME$/.ssh/rootgcp" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f19b63a2-73cf-4ea6-8c7e-e44b2a7daa9b" name="node1.diamondzxd.com" url="http://node1.diamondzxd.com">
+        <fileTransfer host="node1.diamondzxd.com" port="22" privateKey="$USER_HOME$/.ssh/rootgcp" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

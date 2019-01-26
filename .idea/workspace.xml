@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42a9643f-9cdb-4e64-98be-0e176ef2fddc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup/pluginManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dns/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examplePlugin/meta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dns/dnsManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/databaseManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packages/packagesManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emailMarketing/templates/emailMarketing/composeMessages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ftp/ftpManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plogical/acl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dns/pluginManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/websiteFunctions/pluginManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emailMarketing/templates/emailMarketing/sendEmails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pluginHolder/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pluginHolder/templates/pluginHolder/plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emailMarketing/templates/emailMarketing/manageSMTPHosts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/websiteFunctions/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plogical/website.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emailMarketing/emACL.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/emailMarketing/emailMarketingManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examplePlugin/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plogical/pluginManagerGlobal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mailServer/mailserverManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pluginInstaller/pluginInstaller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plogical/backupManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pluginInstaller/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/install/openlitespeed.tar.gz" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serverStatus/templates/serverStatus/services.html" afterPath="$PROJECT_DIR$/serverStatus/templates/serverStatus/services.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filemanager/views.py" afterPath="$PROJECT_DIR$/filemanager/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/ru/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/ru/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mailServer/templates/mailServer/emailForwarding.html" afterPath="$PROJECT_DIR$/mailServer/templates/mailServer/emailForwarding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/upgrade.py" afterPath="$PROJECT_DIR$/plogical/upgrade.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CyberCP/secMiddleware.py" afterPath="$PROJECT_DIR$/CyberCP/secMiddleware.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/virtualHostUtilities.py" afterPath="$PROJECT_DIR$/plogical/virtualHostUtilities.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baseTemplate/templates/baseTemplate/index.html" afterPath="$PROJECT_DIR$/baseTemplate/templates/baseTemplate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dns/views.py" afterPath="$PROJECT_DIR$/dns/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emailPremium/views.py" afterPath="$PROJECT_DIR$/emailPremium/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CyberCP/settings.py" afterPath="$PROJECT_DIR$/CyberCP/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backup/views.py" afterPath="$PROJECT_DIR$/backup/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/applicationInstaller.py" afterPath="$PROJECT_DIR$/plogical/applicationInstaller.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baseTemplate/templates/baseTemplate/indexJavaFixed.html" afterPath="$PROJECT_DIR$/baseTemplate/templates/baseTemplate/indexJavaFixed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/childDomain.py" afterPath="$PROJECT_DIR$/plogical/childDomain.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/bs/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/bs/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/remoteTransferUtilities.py" afterPath="$PROJECT_DIR$/plogical/remoteTransferUtilities.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/templates/packages/createPackage.html" afterPath="$PROJECT_DIR$/packages/templates/packages/createPackage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/ftpUtilities.py" afterPath="$PROJECT_DIR$/plogical/ftpUtilities.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loginSystem/templates/loginSystem/login.html" afterPath="$PROJECT_DIR$/loginSystem/templates/loginSystem/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/tr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/tr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/bs/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/bs/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/tr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/tr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/mailUtilities.py" afterPath="$PROJECT_DIR$/plogical/mailUtilities.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/postfixSenderPolicy/accept_traffic.py" afterPath="$PROJECT_DIR$/postfixSenderPolicy/accept_traffic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/backupUtilities.py" afterPath="$PROJECT_DIR$/plogical/backupUtilities.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CyberCP/urls.py" afterPath="$PROJECT_DIR$/CyberCP/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/views.py" afterPath="$PROJECT_DIR$/api/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirments.txt" afterPath="$PROJECT_DIR$/requirments.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/postfixSenderPolicy/startServer.py" afterPath="$PROJECT_DIR$/postfixSenderPolicy/startServer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/sslUtilities.py" afterPath="$PROJECT_DIR$/plogical/sslUtilities.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/gr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/gr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/gr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/gr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/ja/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/ja/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/br/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/br/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mailServer/views.py" afterPath="$PROJECT_DIR$/mailServer/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mailServer/static/mailServer/mailServer.js" afterPath="$PROJECT_DIR$/mailServer/static/mailServer/mailServer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/cn/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/cn/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/firewall/views.py" afterPath="$PROJECT_DIR$/firewall/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/websiteFunctions/templates/websiteFunctions/website.html" afterPath="$PROJECT_DIR$/websiteFunctions/templates/websiteFunctions/website.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ftp/views.py" afterPath="$PROJECT_DIR$/ftp/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/emailPremium/urls.py" afterPath="$PROJECT_DIR$/emailPremium/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/csf.py" afterPath="$PROJECT_DIR$/plogical/csf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/br/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/br/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/es/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/es/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cli/cyberPanel.py" afterPath="$PROJECT_DIR$/cli/cyberPanel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/cn/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/cn/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manageSSL/views.py" afterPath="$PROJECT_DIR$/manageSSL/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/pt/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/pt/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/installCyberPanel.py" afterPath="$PROJECT_DIR$/install/installCyberPanel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loginSystem/views.py" afterPath="$PROJECT_DIR$/loginSystem/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/fr/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/fr/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/vhost.py" afterPath="$PROJECT_DIR$/plogical/vhost.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/ja/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/locale/ja/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/install.py" afterPath="$PROJECT_DIR$/install/install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/mailServer/mailServer.js" afterPath="$PROJECT_DIR$/static/mailServer/mailServer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/websiteFunctions/urls.py" afterPath="$PROJECT_DIR$/websiteFunctions/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/databases/views.py" afterPath="$PROJECT_DIR$/databases/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/test.py" afterPath="$PROJECT_DIR$/plogical/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/fr/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/fr/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backup/templates/backup/index.html" afterPath="$PROJECT_DIR$/backup/templates/backup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/ru/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/ru/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manageServices/views.py" afterPath="$PROJECT_DIR$/manageServices/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/websiteFunctions/views.py" afterPath="$PROJECT_DIR$/websiteFunctions/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plogical/CyberCPLogFileWriter.py" afterPath="$PROJECT_DIR$/plogical/CyberCPLogFileWriter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/views.py" afterPath="$PROJECT_DIR$/packages/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/es/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/es/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manageSSL/templates/manageSSL/index.html" afterPath="$PROJECT_DIR$/manageSSL/templates/manageSSL/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locale/pt/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/locale/pt/LC_MESSAGES/django.po" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CyberCP$Test__serverStatus_templates_serverStatus_litespeedStatus_html.coverage" NAME="Test: serverStatus.templates.serverStatus.litespeedStatus.html Coverage Results" MODIFIED="1501526169434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/CyberCP$install.coverage" NAME="install Coverage Results" MODIFIED="1535327421441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/install" />
+    <SUITE FILE_PATH="coverage/CyberCP$installCyberPanel.coverage" NAME="installCyberPanel Coverage Results" MODIFIED="1503121368564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/install" />
+    <SUITE FILE_PATH="coverage/CyberCP$virtualHostUtilities.coverage" NAME="virtualHostUtilities Coverage Results" MODIFIED="1532808725248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plogical" />
+    <SUITE FILE_PATH="coverage/CyberCP$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1505720566471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plogical" />
+    <SUITE FILE_PATH="coverage/CyberCP$Unittests_in_install_py.coverage" NAME="Unittests in install.py Coverage Results" MODIFIED="1510164955666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/install" />
+    <SUITE FILE_PATH="coverage/CyberCP$Test__baseTemplate_templates_baseTemplate_index_html.coverage" NAME="Test: baseTemplate.templates.baseTemplate.index.html Coverage Results" MODIFIED="1520164110367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/CyberCP$Test__backup_templates_backup_restore_html.coverage" NAME="Test: backup.templates.backup.restore.html Coverage Results" MODIFIED="1506690893287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/CyberCP$preFlightsChecks.coverage" NAME="preFlightsChecks Coverage Results" MODIFIED="1502356599705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/install" />
+    <SUITE FILE_PATH="coverage/CyberCP$modSec.coverage" NAME="modSec Coverage Results" MODIFIED="1534692914767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plogical" />
+    <SUITE FILE_PATH="coverage/CyberCP$backupUtilities.coverage" NAME="backupUtilities Coverage Results" MODIFIED="1511276633124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plogical" />
+    <SUITE FILE_PATH="coverage/CyberCP$views.coverage" NAME="views Coverage Results" MODIFIED="1542191744524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/managePHP" />
+    <SUITE FILE_PATH="coverage/CyberCP$upgrade.coverage" NAME="upgrade Coverage Results" MODIFIED="1543352688551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plogical" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CyberCP" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloudAPI/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="252" column="38" lean-forward="false" selection-start-line="252" selection-start-column="22" selection-end-line="252" selection-end-column="38" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/s3Backups/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="s3Backups.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/s3Backups/s3Backups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#1682#2090#0" expanded="false" />
+                <element signature="e#2156#2295#0" expanded="false" />
+                <element signature="e#2352#2830#0" expanded="false" />
+                <element signature="e#2870#4585#0" expanded="false" />
+                <element signature="e#4623#5620#0" expanded="false" />
+                <element signature="e#5656#6628#0" expanded="false" />
+                <element signature="e#7943#8508#0" expanded="false" />
+                <element signature="e#8553#9678#0" expanded="false" />
+                <element signature="e#9724#10371#0" expanded="false" />
+                <element signature="e#10412#11150#0" expanded="false" />
+                <element signature="e#11191#12262#0" expanded="false" />
+                <element signature="e#12313#12933#0" expanded="false" />
+                <element signature="e#12976#16356#0" expanded="false" />
+                <element signature="e#16398#18112#0" expanded="false" />
+                <element signature="e#18152#19849#0" expanded="false" />
+                <element signature="e#19887#21024#0" expanded="false" />
+                <element signature="e#21068#22332#0" expanded="false" />
+                <element signature="e#22370#22937#0" expanded="false" />
+                <element signature="e#22984#24113#0" expanded="false" />
+                <element signature="e#24156#25231#0" expanded="false" />
+                <element signature="e#25279#25930#0" expanded="false" />
+                <element signature="e#25973#26765#0" expanded="false" />
+                <element signature="e#26810#30800#0" expanded="false" />
+                <element signature="e#30839#33202#0" expanded="false" />
+                <element signature="e#33240#34031#0" expanded="false" />
+                <element signature="e#34072#35228#0" expanded="false" />
+                <element signature="e#35269#35840#0" expanded="false" />
+                <element signature="e#35881#36979#0" expanded="false" />
+                <element signature="e#37026#38284#0" expanded="false" />
+                <element signature="e#38325#38895#0" expanded="false" />
+                <element signature="e#38941#39777#0" expanded="false" />
+                <element signature="e#42960#44095#0" expanded="false" />
+                <element signature="e#44141#45222#0" expanded="false" />
+                <element signature="e#45273#45930#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upgrade.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plogical/upgrade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="773" column="25" lean-forward="false" selection-start-line="773" selection-start-column="12" selection-end-line="773" selection-end-column="25" />
+              <folding>
+                <element signature="e#16238#16785#0" expanded="false" />
+                <marker date="1547761273256" expanded="true" signature="7952:9672" ph="CREATE TABLE... loginSystem_acl" />
+                <marker date="1547761273256" expanded="true" signature="9765:9825" ph="ALTER TABLE loginSystem_administrator... " />
+                <marker date="1547761273256" expanded="true" signature="9918:9974" ph="ALTER TABLE loginSystem_administrator... " />
+                <marker date="1547761273256" expanded="true" signature="10067:10160" ph="ALTER TABLE loginSystem_administrator... " />
+                <marker date="1547761273256" expanded="true" signature="10254:10326" ph="insert into loginSystem_acl... " />
+                <marker date="1547761273256" expanded="true" signature="10420:10701" ph="insert into loginSystem_acl... " />
+                <marker date="1547761273256" expanded="true" signature="10794:11130" ph="insert into loginSystem_acl... " />
+                <marker date="1547761273256" expanded="true" signature="11224:11272" ph="UPDATE login... " />
+                <marker date="1547761273256" expanded="true" signature="11366:11439" ph="UPDATE login... " />
+                <marker date="1547761273256" expanded="true" signature="11533:11597" ph="alter table loginSystem_administrator... " />
+                <marker date="1547761273256" expanded="true" signature="11691:11822" ph="CREATE TABLE... websiteFunctions_aliasdomains" />
+                <marker date="1547761273256" expanded="true" signature="11915:11998" ph="ALTER TABLE `websiteFunctions_aliasdomains`... " />
+                <marker date="1547761273256" expanded="true" signature="12091:12276" ph="ALTER TABLE `websiteFunctions_aliasdomains`... " />
+                <marker date="1547761273256" expanded="false" signature="12673:13238" ph="CREATE TABLE... s3Backups_backupplan" />
+                <marker date="1547761273256" expanded="false" signature="13363:13740" ph="CREATE TABLE... s3Backups_websitesinplan" />
+                <marker date="1547761273256" expanded="false" signature="13865:14303" ph="CREATE TABLE... s3Backups_backuplogs" />
+                <marker date="1547761273256" expanded="false" signature="14428:15027" ph="CREATE TABLE... s3Backups_backupplando" />
+                <marker date="1547761273256" expanded="false" signature="15152:15533" ph="CREATE TABLE... s3Backups_websitesinplando" />
+                <marker date="1547761273256" expanded="false" signature="15658:16100" ph="CREATE TABLE... s3Backups_backuplogsdo" />
+                <marker date="1547761273256" expanded="true" signature="16241:16782" ph="CREATE TABLE... s3Backups_minionodes" />
+                <marker date="1547761273256" expanded="true" signature="16907:17673" ph="CREATE TABLE... s3Backups_backupplanminio" />
+                <marker date="1547761273256" expanded="true" signature="17798:18185" ph="CREATE TABLE... s3Backups_websitesinplanminio" />
+                <marker date="1547761273256" expanded="true" signature="19239:19281" ph="ALTER TABLE e_forwardings... " />
+                <marker date="1547761273256" expanded="true" signature="19282:19345" ph="ALTER TABLE e_forwardings... " />
+                <marker date="1547761273256" expanded="true" signature="19413:19886" ph="CREATE TABLE... emailPremium_domainlimits" />
+                <marker date="1547761273256" expanded="true" signature="20010:20566" ph="CREATE TABLE... emailPremium_emaillimits" />
+                <marker date="1547761273256" expanded="true" signature="20690:21113" ph="CREATE TABLE... emailPremium_emaillogs" />
+                <marker date="1547761273256" expanded="true" signature="21504:21686" ph="CREATE TABLE... emailMarketing_emailmarketing" />
+                <marker date="1547761273256" expanded="true" signature="21810:22271" ph="CREATE TABLE... emailMarketing_emaillists" />
+                <marker date="1547761273256" expanded="true" signature="22395:22934" ph="CREATE TABLE... emailMarketing_emailsinlist" />
+                <marker date="1547761273256" expanded="true" signature="23059:23570" ph="CREATE TABLE... emailMarketing_smtphosts" />
+                <marker date="1547761273256" expanded="true" signature="23695:24295" ph="CREATE TABLE... emailMarketing_emailtemplate" />
+                <marker date="1547761273256" expanded="true" signature="24420:24926" ph="CREATE TABLE... emailMarketing_emailjobs" />
+                <marker date="1547761273256" expanded="true" signature="25310:25932" ph="CREATE TABLE... dockerManager_containers" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CyberCP/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="61" column="11" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="67" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>installLite</find>
+      <find>issueSSLForMailServer</find>
+      <find>installSpam</find>
+      <find>dockerMigrations</find>
+      <find>mysql</find>
+      <find>virtualenv</find>
+      <find>createPlan</find>
+      <find>applyMySQLChanges</find>
+      <find>fetchRam</find>
+      <find>open</find>
+      <find>openss</find>
+      <find>openssl</find>
+      <find>websiteFunctions.css</find>
+      <find>forceRunAWSBackupDO</find>
+      <find>deletePlanDO</find>
+      <find>fetchBackupPlansDO</find>
+      <find>manager</find>
+      <find>fetchBackupPlansMINIO</find>
+      <find>createPlanDO</find>
+      <find>deletePlan</find>
+      <find>savePlanChanges</find>
+      <find>hello</find>
+      <find>forceRunAWSBackup</find>
+      <find>BackupPlanDO</find>
+      <find>fetchBackupLogsDO</find>
+      <find>fetchWebsitesInPlan</find>
+      <find>deleteDomainFromPlanMINIO</find>
+      <find>dockerManager</find>
+      <find>fetchBackupPlans</find>
+      <find>fetchBackupPlans(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{% static 'filemanager/images/fileManager.png' %}</replace>
+      <replace>{$</replace>
+      <replace>$}</replace>
+      <replace>extension</replace>
+      <replace>mysql</replace>
+      <replace>self.parser</replace>
+      <replace>parser</replace>
+      <replace>HandleRequest.domains</replace>
+      <replace>SetupConn.sock</replace>
+      <replace>handle.HandleRequest.sock</replace>
+      <replace>cacheManager.domains</replace>
+      <replace>SpamAssassin</replace>
+      <replace>report_safe</replace>
+      <replace>#!/usr/local/CyberCP/bin/python2</replace>
+      <replace>privileges</replace>
+      <replace>You do not own this website.</replace>
+      <replace>submitDomainCreation</replace>
+      <replace>os._exit(0)</replace>
+      <replace>pk=val</replace>
+      <replace>rsa:1024</replace>
+      <replace>sslUtilities</replace>
+      <replace>result != 200</replace>
+      <replace>json.loads(request.body)</replace>
+      <replace>lscpd:lscpd</replace>
+      <replace>self.request</replace>
+      <replace>(?P&lt;domain&gt;(.*))</replace>
+      <replace>pure-ftpd-mysql</replace>
+      <replace>style=&quot;background: #3498db;color:white&quot;</replace>
+      <replace />
+      <replace>dfg</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/serverStatus</dir>
+      <dir>$PROJECT_DIR$/s3Backups</dir>
+      <dir>$PROJECT_DIR$/userManagment</dir>
+      <dir>$PROJECT_DIR$/plogical</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/install/install.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/managePHP/phpManager.py" />
+        <option value="$PROJECT_DIR$/managePHP/views.py" />
+        <option value="$PROJECT_DIR$/install/firewallUtilities.py" />
+        <option value="$PROJECT_DIR$/tuning/views.py" />
+        <option value="$PROJECT_DIR$/tuning/templates/tuning/phpTuning.html" />
+        <option value="$PROJECT_DIR$/plogical/csf.py" />
+        <option value="$PROJECT_DIR$/s3Backups/tests.py" />
+        <option value="$PROJECT_DIR$/cli/cyberPanel.py" />
+        <option value="$PROJECT_DIR$/plogical/test.py" />
+        <option value="$PROJECT_DIR$/managePHP/php70.xml" />
+        <option value="$PROJECT_DIR$/managePHP/php71.xml" />
+        <option value="$PROJECT_DIR$/managePHP/php72.xml" />
+        <option value="$PROJECT_DIR$/managePHP/php73.xml" />
+        <option value="$PROJECT_DIR$/managePHP/ubuntuphp70.xml" />
+        <option value="$PROJECT_DIR$/managePHP/ubuntuphp71.xml" />
+        <option value="$PROJECT_DIR$/managePHP/ubuntuphp72.xml" />
+        <option value="$PROJECT_DIR$/managePHP/ubuntuphp73.xml" />
+        <option value="$PROJECT_DIR$/skin_customizations/skin.sh" />
+        <option value="$PROJECT_DIR$/skin_customizations/README.md" />
+        <option value="$PROJECT_DIR$/locale/ja/LC_MESSAGES/django.po" />
+        <option value="$PROJECT_DIR$/firewall/firewallManager.py" />
+        <option value="$PROJECT_DIR$/api/views.py" />
+        <option value="$PROJECT_DIR$/loginSystem/views.py" />
+        <option value="$PROJECT_DIR$/CyberCP/settings.py" />
+        <option value="$PROJECT_DIR$/CyberCP/urls.py" />
+        <option value="$PROJECT_DIR$/dockerManager/templates/dockerManager/manageImages.html" />
+        <option value="$PROJECT_DIR$/dockerManager/templates/dockerManager/images.html" />
+        <option value="$PROJECT_DIR$/serverStatus/static/serverStatus/serverStatus.js" />
+        <option value="$PROJECT_DIR$/serverStatus/templates/serverStatus/services.html" />
+        <option value="$PROJECT_DIR$/serverStatus/views.py" />
+        <option value="$PROJECT_DIR$/plogical/vhost.py" />
+        <option value="$PROJECT_DIR$/dockerManager/templates/dockerManager/install.html" />
+        <option value="$PROJECT_DIR$/dockerManager/static/dockerManager/dockerManager.js" />
+        <option value="$PROJECT_DIR$/plogical/acl.py" />
+        <option value="$PROJECT_DIR$/dockerManager/views.py" />
+        <option value="$PROJECT_DIR$/plogical/container.py" />
+        <option value="$PROJECT_DIR$/serverStatus/serverStatusUtil.py" />
+        <option value="$PROJECT_DIR$/install/installCyberPanel.py" />
+        <option value="$PROJECT_DIR$/plogical/mailUtilities.py" />
+        <option value="$PROJECT_DIR$/plogical/virtualHostUtilities.py" />
+        <option value="$PROJECT_DIR$/install/install.py" />
+        <option value="$PROJECT_DIR$/plogical/modSec.py" />
+        <option value="$PROJECT_DIR$/plogical/mysqlUtilities.py" />
+        <option value="$PROJECT_DIR$/emailMarketing/emailMarketingManager.py" />
+        <option value="$PROJECT_DIR$/s3Backups/models.py" />
+        <option value="$PROJECT_DIR$/requirments.txt" />
+        <option value="$PROJECT_DIR$/cloudAPI/cloudManager.py" />
+        <option value="$PROJECT_DIR$/baseTemplate/templates/baseTemplate/index.html" />
+        <option value="$PROJECT_DIR$/plogical/upgrade.py" />
+        <option value="$PROJECT_DIR$/cloudAPI/views.py" />
+        <option value="$PROJECT_DIR$/s3Backups/s3Backups.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1299" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CyberCP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CyberCP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CyberCP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CyberCP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s3Backups" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/usman/Backup/CyberPanelPremium/CyberCP/packages/views.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/commonUtils" />
+      <recent name="$PROJECT_DIR$/s3Backups" />
+      <recent name="$PROJECT_DIR$/serverStatus/templates/serverStatus" />
+      <recent name="$PROJECT_DIR$/plogical" />
+      <recent name="$PROJECT_DIR$/emailMarketing/templates/emailMarketing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examplePlugin" />
+      <recent name="$PROJECT_DIR$/signals" />
+      <recent name="$PROJECT_DIR$/emailPremium/static/emailPremium" />
+      <recent name="$PROJECT_DIR$/backup" />
+      <recent name="$PROJECT_DIR$/CyberCP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.upgrade">
+    <configuration default="false" name="virtualHostUtilities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plogical" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plogical/virtualHostUtilities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="install" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/install" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/install/install.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="modSec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plogical" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plogical/modSec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="upgrade" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plogical" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plogical/upgrade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/managePHP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/managePHP/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="CyberCP" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CyberCP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.virtualHostUtilities" />
+      <item index="1" class="java.lang.String" itemvalue="Python.install" />
+      <item index="2" class="java.lang.String" itemvalue="Python.modSec" />
+      <item index="3" class="java.lang.String" itemvalue="Python.upgrade" />
+      <item index="4" class="java.lang.String" itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.upgrade" />
+        <item index="1" class="java.lang.String" itemvalue="Python.views" />
+        <item index="2" class="java.lang.String" itemvalue="Python.install" />
+        <item index="3" class="java.lang.String" itemvalue="Python.modSec" />
+        <item index="4" class="java.lang.String" itemvalue="Python.virtualHostUtilities" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42a9643f-9cdb-4e64-98be-0e176ef2fddc" name="Default" comment="" />
+      <created>1501150558154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501150558154</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Prestashop Installer.">
+      <created>1533484169833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533484169833</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Prestashop Installer.">
+      <created>1533561148428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533561148428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bug fixes.">
+      <created>1535021572453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535021572453</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__backup_templates_backup_restore_html - 2017.09.18 at 21h 33m 41s.xml">
+      <configuration name="Test: backup.templates.backup.restore.html" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__backup_templates_backup_restore_html - 2017.09.29 at 18h 14m 55s.xml">
+      <configuration name="Test: backup.templates.backup.restore.html" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__baseTemplate_templates_baseTemplate_homePage_html - 2017.10.13 at 17h 07m 55s.xml">
+      <configuration name="Test: baseTemplate.templates.baseTemplate.homePage.html" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__baseTemplate_templates_baseTemplate_index_html - 2018.03.04 at 16h 48m 32s.xml">
+      <configuration name="Test: baseTemplate.templates.baseTemplate.index.html" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__userManagment_templates_userManagment - 2017.08.08 at 15h 50m 37s.xml">
+      <configuration name="Test: userManagment.templates.userManagment" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Unittests_in_install_py - 2017.11.08 at 23h 15m 55s.xml">
+      <configuration name="Unittests in install.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_py - 2017.09.18 at 12h 42m 46s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2247883" sideWeight="0.4947839" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.022522522" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.19969743" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23674096" sideWeight="0.5052161" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42792794" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5525526" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.019519519" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@CyberCP" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Prestashop Installer." />
+    <MESSAGE value="Bug fixes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fixes." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/serverStatus/views.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/serverLogs/views.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/install/install.py</url>
+          <line>2013</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dockerManager/views.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/emailPremium/templates/emailPremium/emailLimits.html</url>
+          <line>51</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/emailPremium/templates/emailPremium/listDomains.html</url>
+          <line>83</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/emailPremium/templates/emailPremium/emailPage.html</url>
+          <line>188</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/websiteFunctions/templates/websiteFunctions/setupGit.html</url>
+          <line>118</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/serverStatus/templates/serverStatus/topProcesses.html</url>
+          <line>50</line>
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dockerManager/static/dockerManager/dockerManager.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="523" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backup/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/backupManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2052">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locale/ja/LC_MESSAGES/django.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="5370" column="44" lean-forward="true" selection-start-line="5370" selection-start-column="44" selection-end-line="5370" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userManagment/static/userManagment/userManagment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginSystem/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="158" column="57" lean-forward="true" selection-start-line="158" selection-start-column="57" selection-end-line="158" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="572" column="60" lean-forward="false" selection-start-line="572" selection-start-column="60" selection-end-line="572" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/templates/dockerManager/images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="130" lean-forward="false" selection-start-line="21" selection-start-column="130" selection-end-line="21" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/templates/dockerManager/manageImages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="114" column="47" lean-forward="false" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/templates/dockerManager/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="28" column="67" lean-forward="false" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverStatus/templates/serverStatus/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/vhost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12456">
+          <caret line="719" column="33" lean-forward="false" selection-start-line="719" selection-start-column="33" selection-end-line="719" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverStatus/static/serverStatus/serverStatus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="647" column="5" lean-forward="true" selection-start-line="552" selection-start-column="4" selection-end-line="647" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverStatus/templates/serverStatus/litespeedStatus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="189" column="70" lean-forward="true" selection-start-line="169" selection-start-column="28" selection-end-line="189" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/CyberCPLogFileWriter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/applicationInstaller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="45" column="74" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="45" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/templates/dockerManager/install.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="51" column="61" lean-forward="false" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="26" column="54" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/static/dockerManager/dockerManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#78#2723#0" expanded="false" />
+            <element signature="e#2845#2899#0" expanded="false" />
+            <element signature="e#3004#6273#0" expanded="false" />
+            <element signature="e#6382#14120#0" expanded="false" />
+            <element signature="e#6487#6566#0" expanded="false" />
+            <element signature="e#6616#7825#0" expanded="false" />
+            <element signature="e#7886#11123#0" expanded="false" />
+            <element signature="e#11179#12378#0" expanded="false" />
+            <element signature="e#12463#12549#0" expanded="false" />
+            <element signature="e#12671#13090#0" expanded="false" />
+            <element signature="e#13135#13175#0" expanded="false" />
+            <element signature="e#13240#14117#0" expanded="false" />
+            <element signature="e#14230#24754#0" expanded="false" />
+            <element signature="e#24866#33772#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databases/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/acl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="465" column="24" lean-forward="true" selection-start-line="465" selection-start-column="24" selection-end-line="465" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="334" column="39" lean-forward="false" selection-start-line="334" selection-start-column="24" selection-end-line="334" selection-end-column="39" />
+          <folding>
+            <element signature="e#25#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/container.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mailServer/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/installCyberPanel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="76" column="38" lean-forward="true" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverStatus/serverStatusUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="92" column="34" lean-forward="false" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/mailUtilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="440" column="28" lean-forward="false" selection-start-line="440" selection-start-column="28" selection-end-line="440" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/virtualHostUtilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="549" column="70" lean-forward="true" selection-start-line="549" selection-start-column="70" selection-end-line="549" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageSSL/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="221" column="61" lean-forward="false" selection-start-line="221" selection-start-column="40" selection-end-line="221" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emailPremium/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="889" column="50" lean-forward="false" selection-start-line="889" selection-start-column="39" selection-end-line="889" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerManager/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverStatus/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="450" column="28" lean-forward="false" selection-start-line="450" selection-start-column="28" selection-end-line="450" selection-end-column="64" />
+          <folding>
+            <element signature="e#614#779#0" expanded="false" />
+            <element signature="e#816#2879#0" expanded="false" />
+            <element signature="e#2923#3981#0" expanded="false" />
+            <element signature="e#4021#4452#0" expanded="false" />
+            <element signature="e#8891#11300#0" expanded="false" />
+            <element signature="e#11334#12194#0" expanded="false" />
+            <element signature="e#13200#14275#0" expanded="false" />
+            <element signature="e#15849#16340#0" expanded="false" />
+            <element signature="e#17136#17746#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CyberCP/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/firewallUtilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/modSec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="399" column="81" lean-forward="false" selection-start-line="399" selection-start-column="61" selection-end-line="399" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firewall/firewallManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-625">
+          <caret line="1281" column="53" lean-forward="true" selection-start-line="1281" selection-start-column="53" selection-end-line="1281" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/mysqlUtilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="315" column="32" lean-forward="false" selection-start-line="315" selection-start-column="32" selection-end-line="315" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/install.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1258" column="27" lean-forward="false" selection-start-line="1258" selection-start-column="27" selection-end-line="1258" selection-end-column="147" />
+          <folding>
+            <element signature="e#518#697#0" expanded="false" />
+            <element signature="e#783#1296#0" expanded="false" />
+            <element signature="e#1361#1439#0" expanded="false" />
+            <element signature="e#1499#1645#0" expanded="false" />
+            <element signature="e#1755#2674#0" expanded="false" />
+            <element signature="e#2722#3658#0" expanded="false" />
+            <element signature="e#3702#3927#0" expanded="false" />
+            <element signature="e#3977#7106#0" expanded="false" />
+            <element signature="e#7142#8284#0" expanded="false" />
+            <element signature="e#8331#11320#0" expanded="false" />
+            <element signature="e#11360#12898#0" expanded="false" />
+            <element signature="e#12935#13888#0" expanded="false" />
+            <element signature="e#13932#15058#0" expanded="false" />
+            <element signature="e#15095#16035#0" expanded="false" />
+            <element signature="e#16087#17107#0" expanded="false" />
+            <element signature="e#17156#21676#0" expanded="false" />
+            <element signature="e#21717#23826#0" expanded="false" />
+            <element signature="e#34620#35803#0" expanded="false" />
+            <element signature="e#129170#130015#0" expanded="false" />
+            <element signature="e#130048#130726#0" expanded="false" />
+            <element signature="e#131690#132273#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highAvailability/haManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="124" column="6" lean-forward="false" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emailMarketing/emailMarketingManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="553" column="83" lean-forward="true" selection-start-line="553" selection-start-column="83" selection-end-line="553" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websiteFunctions/static/websiteFunctions/websiteFunctions.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websiteFunctions/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirments.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseTemplate/templates/baseTemplate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="87" column="23" lean-forward="false" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudAPI/cloudManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="1256" column="56" lean-forward="false" selection-start-line="1256" selection-start-column="48" selection-end-line="1256" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s3Backups/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plogical/upgrade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="773" column="25" lean-forward="false" selection-start-line="773" selection-start-column="12" selection-end-line="773" selection-end-column="25" />
+          <folding>
+            <element signature="e#16238#16785#0" expanded="false" />
+            <marker date="1547761273256" expanded="true" signature="7952:9672" ph="CREATE TABLE... loginSystem_acl" />
+            <marker date="1547761273256" expanded="true" signature="9765:9825" ph="ALTER TABLE loginSystem_administrator... " />
+            <marker date="1547761273256" expanded="true" signature="9918:9974" ph="ALTER TABLE loginSystem_administrator... " />
+            <marker date="1547761273256" expanded="true" signature="10067:10160" ph="ALTER TABLE loginSystem_administrator... " />
+            <marker date="1547761273256" expanded="true" signature="10254:10326" ph="insert into loginSystem_acl... " />
+            <marker date="1547761273256" expanded="true" signature="10420:10701" ph="insert into loginSystem_acl... " />
+            <marker date="1547761273256" expanded="true" signature="10794:11130" ph="insert into loginSystem_acl... " />
+            <marker date="1547761273256" expanded="true" signature="11224:11272" ph="UPDATE login... " />
+            <marker date="1547761273256" expanded="true" signature="11366:11439" ph="UPDATE login... " />
+            <marker date="1547761273256" expanded="true" signature="11533:11597" ph="alter table loginSystem_administrator... " />
+            <marker date="1547761273256" expanded="true" signature="11691:11822" ph="CREATE TABLE... websiteFunctions_aliasdomains" />
+            <marker date="1547761273256" expanded="true" signature="11915:11998" ph="ALTER TABLE `websiteFunctions_aliasdomains`... " />
+            <marker date="1547761273256" expanded="true" signature="12091:12276" ph="ALTER TABLE `websiteFunctions_aliasdomains`... " />
+            <marker date="1547761273256" expanded="false" signature="12673:13238" ph="CREATE TABLE... s3Backups_backupplan" />
+            <marker date="1547761273256" expanded="false" signature="13363:13740" ph="CREATE TABLE... s3Backups_websitesinplan" />
+            <marker date="1547761273256" expanded="false" signature="13865:14303" ph="CREATE TABLE... s3Backups_backuplogs" />
+            <marker date="1547761273256" expanded="false" signature="14428:15027" ph="CREATE TABLE... s3Backups_backupplando" />
+            <marker date="1547761273256" expanded="false" signature="15152:15533" ph="CREATE TABLE... s3Backups_websitesinplando" />
+            <marker date="1547761273256" expanded="false" signature="15658:16100" ph="CREATE TABLE... s3Backups_backuplogsdo" />
+            <marker date="1547761273256" expanded="true" signature="16241:16782" ph="CREATE TABLE... s3Backups_minionodes" />
+            <marker date="1547761273256" expanded="true" signature="16907:17673" ph="CREATE TABLE... s3Backups_backupplanminio" />
+            <marker date="1547761273256" expanded="true" signature="17798:18185" ph="CREATE TABLE... s3Backups_websitesinplanminio" />
+            <marker date="1547761273256" expanded="true" signature="19239:19281" ph="ALTER TABLE e_forwardings... " />
+            <marker date="1547761273256" expanded="true" signature="19282:19345" ph="ALTER TABLE e_forwardings... " />
+            <marker date="1547761273256" expanded="true" signature="19413:19886" ph="CREATE TABLE... emailPremium_domainlimits" />
+            <marker date="1547761273256" expanded="true" signature="20010:20566" ph="CREATE TABLE... emailPremium_emaillimits" />
+            <marker date="1547761273256" expanded="true" signature="20690:21113" ph="CREATE TABLE... emailPremium_emaillogs" />
+            <marker date="1547761273256" expanded="true" signature="21504:21686" ph="CREATE TABLE... emailMarketing_emailmarketing" />
+            <marker date="1547761273256" expanded="true" signature="21810:22271" ph="CREATE TABLE... emailMarketing_emaillists" />
+            <marker date="1547761273256" expanded="true" signature="22395:22934" ph="CREATE TABLE... emailMarketing_emailsinlist" />
+            <marker date="1547761273256" expanded="true" signature="23059:23570" ph="CREATE TABLE... emailMarketing_smtphosts" />
+            <marker date="1547761273256" expanded="true" signature="23695:24295" ph="CREATE TABLE... emailMarketing_emailtemplate" />
+            <marker date="1547761273256" expanded="true" signature="24420:24926" ph="CREATE TABLE... emailMarketing_emailjobs" />
+            <marker date="1547761273256" expanded="true" signature="25310:25932" ph="CREATE TABLE... dockerManager_containers" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CyberCP/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="61" column="11" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="67" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudAPI/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="252" column="38" lean-forward="false" selection-start-line="252" selection-start-column="22" selection-end-line="252" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s3Backups/s3Backups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#1682#2090#0" expanded="false" />
+            <element signature="e#2156#2295#0" expanded="false" />
+            <element signature="e#2352#2830#0" expanded="false" />
+            <element signature="e#2870#4585#0" expanded="false" />
+            <element signature="e#4623#5620#0" expanded="false" />
+            <element signature="e#5656#6628#0" expanded="false" />
+            <element signature="e#7943#8508#0" expanded="false" />
+            <element signature="e#8553#9678#0" expanded="false" />
+            <element signature="e#9724#10371#0" expanded="false" />
+            <element signature="e#10412#11150#0" expanded="false" />
+            <element signature="e#11191#12262#0" expanded="false" />
+            <element signature="e#12313#12933#0" expanded="false" />
+            <element signature="e#12976#16356#0" expanded="false" />
+            <element signature="e#16398#18112#0" expanded="false" />
+            <element signature="e#18152#19849#0" expanded="false" />
+            <element signature="e#19887#21024#0" expanded="false" />
+            <element signature="e#21068#22332#0" expanded="false" />
+            <element signature="e#22370#22937#0" expanded="false" />
+            <element signature="e#22984#24113#0" expanded="false" />
+            <element signature="e#24156#25231#0" expanded="false" />
+            <element signature="e#25279#25930#0" expanded="false" />
+            <element signature="e#25973#26765#0" expanded="false" />
+            <element signature="e#26810#30800#0" expanded="false" />
+            <element signature="e#30839#33202#0" expanded="false" />
+            <element signature="e#33240#34031#0" expanded="false" />
+            <element signature="e#34072#35228#0" expanded="false" />
+            <element signature="e#35269#35840#0" expanded="false" />
+            <element signature="e#35881#36979#0" expanded="false" />
+            <element signature="e#37026#38284#0" expanded="false" />
+            <element signature="e#38325#38895#0" expanded="false" />
+            <element signature="e#38941#39777#0" expanded="false" />
+            <element signature="e#42960#44095#0" expanded="false" />
+            <element signature="e#44141#45222#0" expanded="false" />
+            <element signature="e#45273#45930#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
